@@ -1,1 +1,0 @@
-# Openshift-S2I
